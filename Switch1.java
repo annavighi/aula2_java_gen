@@ -22,9 +22,6 @@ package java_pratica2;
 		
 		System.out.println("\nDigite a quantidade: ");
 			quantidade = entrada.nextInt();
-			
-		String produto;
-	    double preco;		
 
 	switch(codigo){
 		
